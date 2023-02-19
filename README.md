@@ -23,9 +23,7 @@
 
 ## 关于星主
 
-桂林电子科技大学计算机本硕，美国PMI认证PMP，Oracle认证Java程序员，信息系统项目管理师，软件设计师，CET6。
-
-* [马如林的程序员之路](https://github.com/rulinma/it/blob/main/%E6%9D%82%E9%A1%B9/%E6%88%91%E7%9A%84/%E4%BA%A4%E6%B5%81%E5%88%86%E4%BA%AB/README.md)
+[马如林](https://github.com/rulinma/resume) 
 
 ## 加入星球
 
